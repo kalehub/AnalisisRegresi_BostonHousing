@@ -478,10 +478,11 @@ sns.scatterplot(x=df['LSTAT'], y=df['MEDV'],data=df)
 
     
 ![png](boston_housing_c_files/boston_housing_c_19_1.png)
+
     
 
 
-Dapat dilihat dalam grafik scatter diatas bahwa :  
+Dapat dilihat dalam grafik scatter diatas bahwa:  
 
 __Semakin tinggi nilai atribut LSTAT maka harga rumah (MEDV) akan semakin rendah)__
 
